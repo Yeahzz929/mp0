@@ -1,1 +1,28 @@
 /* Your CSS here. */
+body{
+  display: flex;
+  justify-content: center;
+}
+.card{
+  max-width: 600px;
+  margin: 40px;
+  background: #6b6b6b;
+  color: #ffffff;
+  padding: 40px;
+  text-align: center;
+}
+img{
+  width: 150px; height: 150px;
+}
+.email{
+    font-style: italic;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+a{
+  font-style: italic;
+  font-weight: bold;
+}
+p{
+  text-align: left;
+}
